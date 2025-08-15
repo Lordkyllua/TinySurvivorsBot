@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiny Survivors Bot</string>
+    <string name="service_description">Automatiza taps en botones comunes del juego.</string>
+    <string name="open_accessibility_settings">Habilitar servicio de accesibilidad</string>
+    <string name="bot_enabled">Bot activado</string>
+</resources>
